@@ -2,6 +2,7 @@
 body{
     background-color: rgb(253, 251, 251);
 }
+
 /* Fixa a barra */
 #cabecalho{
     background-color: green;
@@ -10,7 +11,7 @@ body{
     width: 1600px;
     height: 100px;
 }
-
+/* Foto */
 #minha_foto{
     max-width:400px;
     max-height:500px;
